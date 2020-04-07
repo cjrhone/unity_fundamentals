@@ -103,6 +103,18 @@
  <Reference Include="com.unity.multiplayer-hlapi.Runtime">
  <HintPath>/Users/charlesrhone/Desktop/3D_Stuff/Unity Fundamentals/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+ <HintPath>/Users/charlesrhone/Desktop/3D_Stuff/Unity Fundamentals/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProBuilder.AddOns.Editor">
+ <HintPath>/Users/charlesrhone/Desktop/3D_Stuff/Unity Fundamentals/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProGrids">
+ <HintPath>/Users/charlesrhone/Desktop/3D_Stuff/Unity Fundamentals/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.ProGrids.Editor">
+ <HintPath>/Users/charlesrhone/Desktop/3D_Stuff/Unity Fundamentals/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine">
  <HintPath>/Applications/Unity/Hub/Editor/2019.2.15f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
